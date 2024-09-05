@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5th sem\\Dot-Net\\ConsoleApp\\practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91CEE907-707F-428D-8FB5-7A6CC5F22853}|Code\\Code.csproj|d:\\5th sem\\dot-net\\consoleapp\\practice\\code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CEE907-707F-428D-8FB5-7A6CC5F22853}|Code\\Code.csproj|solutionrelative:code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CEE907-707F-428D-8FB5-7A6CC5F22853}|Code\\Code.csproj|d:\\5th sem\\dot-net\\consoleapp\\practice\\code\\newexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CEE907-707F-428D-8FB5-7A6CC5F22853}|Code\\Code.csproj|solutionrelative:code\\newexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CEE907-707F-428D-8FB5-7A6CC5F22853}|Code\\Code.csproj|d:\\5th sem\\dot-net\\consoleapp\\practice\\code\\customexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CEE907-707F-428D-8FB5-7A6CC5F22853}|Code\\Code.csproj|solutionrelative:code\\customexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CEE907-707F-428D-8FB5-7A6CC5F22853}|Code\\Code.csproj|d:\\5th sem\\dot-net\\consoleapp\\practice\\code\\multiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CEE907-707F-428D-8FB5-7A6CC5F22853}|Code\\Code.csproj|solutionrelative:code\\multiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CEE907-707F-428D-8FB5-7A6CC5F22853}|Code\\Code.csproj|d:\\5th sem\\dot-net\\consoleapp\\practice\\code\\nestedexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CEE907-707F-428D-8FB5-7A6CC5F22853}|Code\\Code.csproj|solutionrelative:code\\nestedexp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewExp.cs",
+              "DocumentMoniker": "D:\\5th sem\\Dot-Net\\ConsoleApp\\practice\\Code\\NewExp.cs",
+              "RelativeDocumentMoniker": "Code\\NewExp.cs",
+              "ToolTip": "D:\\5th sem\\Dot-Net\\ConsoleApp\\practice\\Code\\NewExp.cs",
+              "RelativeToolTip": "Code\\NewExp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:12:23.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomExp.cs",
+              "DocumentMoniker": "D:\\5th sem\\Dot-Net\\ConsoleApp\\practice\\Code\\CustomExp.cs",
+              "RelativeDocumentMoniker": "Code\\CustomExp.cs",
+              "ToolTip": "D:\\5th sem\\Dot-Net\\ConsoleApp\\practice\\Code\\CustomExp.cs",
+              "RelativeToolTip": "Code\\CustomExp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:11:01.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiException.cs",
+              "DocumentMoniker": "D:\\5th sem\\Dot-Net\\ConsoleApp\\practice\\Code\\MultiException.cs",
+              "RelativeDocumentMoniker": "Code\\MultiException.cs",
+              "ToolTip": "D:\\5th sem\\Dot-Net\\ConsoleApp\\practice\\Code\\MultiException.cs",
+              "RelativeToolTip": "Code\\MultiException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:04:18.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NestedExp.cs",
+              "DocumentMoniker": "D:\\5th sem\\Dot-Net\\ConsoleApp\\practice\\Code\\NestedExp.cs",
+              "RelativeDocumentMoniker": "Code\\NestedExp.cs",
+              "ToolTip": "D:\\5th sem\\Dot-Net\\ConsoleApp\\practice\\Code\\NestedExp.cs",
+              "RelativeToolTip": "Code\\NestedExp.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:53:31.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\5th sem\\Dot-Net\\ConsoleApp\\practice\\Code\\Program.cs",
+              "RelativeDocumentMoniker": "Code\\Program.cs",
+              "ToolTip": "D:\\5th sem\\Dot-Net\\ConsoleApp\\practice\\Code\\Program.cs",
+              "RelativeToolTip": "Code\\Program.cs",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAAABABAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:49:02.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
